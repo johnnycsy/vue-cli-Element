@@ -28,6 +28,6 @@ johnny-admin 是一个后台前端解决方案，它基于 vue-cli 和 element-u
 
 ### 展示图片
 ![Image text](http://app.ooago.com/1.jpg)
-![Image text](http://app.ooago.com/1.jpg)
-![Image text](http://app.ooago.com/1.jpg)
+![Image text](http://app.ooago.com/2.jpg)
+![Image text](http://app.ooago.com/3.jpg)
 
