@@ -1,0 +1,28 @@
+.login {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom right, rgba(6, 29, 59, 1.000), rgba(65, 153, 246, 1.000));
+    color: white;
+}
+
+.login-form {
+    width: 80%;
+    max-width: 450px;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    box-shadow: 0 2px 6px 1px rgba(0, 0, 0, 0.5);
+}
+
+.login-input {
+    width: 90%;
+    margin: auto;
+}
+
+.login-but {
+    width: 100%;
+}
